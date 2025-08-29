@@ -52,9 +52,14 @@ Bloop
 <br/>  
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=juwonthefirst&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
-<br />
+## GitHub Stats:
+<table><tr><td valign="top" width="50%">
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+![](https://github-readme-stats.vercel.app/api?username=juwonthefirst&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
+
+</td><td valign="top" width="50%">
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=juwonthefirst&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+</td></tr>
+</table> 
